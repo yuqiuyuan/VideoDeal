@@ -22,4 +22,4 @@ class Solusion(object):
 
 
 s = Solusion()
-print s.letterCombinations('23')
+print s.letterCombinations('234')
